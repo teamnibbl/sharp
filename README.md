@@ -1,3 +1,5 @@
+* minor update to use latest version of libvips (8.6.4) in attempt to fix segfaulting bug.
+
 # sharp
 
 ```sh
