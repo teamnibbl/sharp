@@ -108,7 +108,7 @@
   },
   "license": "Apache-2.0",
   "config": {
-    "libvips": "git+https://github.com/jcupitt/libvips.git#master"
+    "libvips": "8.6.1"
   },
   "engines": {
     "node": ">=4.5.0"
